@@ -1,0 +1,1 @@
+var x=window.confirm("Are you sure you want to quit");x?window.alert("Thank you."):window.alert("Good choice.");

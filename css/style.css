@@ -1,0 +1,20 @@
+body {
+  background-color: yellow;
+  color: red;
+}
+
+body p {
+  -webkit-transition: all 0.2 ease;
+  transition: all 0.2 ease;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+body p a {
+  color: #000000;
+  text-decoration: none;
+}
+
+body p a:hover {
+  text-decoration: none;
+}
